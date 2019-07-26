@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-schema="ROAMINGSERVICE"/>
+  <table-filter match-name="TB_TRANSACTION_VAS"/>
+  <table-filter match-name="TB_TRANSACTION_VAS_SERVICETYPE"/>
+  <table-filter match-name="TB_TRANSACTION_VAS_WS_RESP"/>
+  <table-filter match-name="TB_USER_CLARO_VIDEO"/>
+  <table-filter match-name="TB_BITACORA_CLARO_VIDEO"/>
+  <table-filter match-name="TB_TRANSACTION_VAS_STATE"/>
+  <table-filter match-name="TB_ROL_CLARO_VIDEO"/>
+</hibernate-reverse-engineering>
